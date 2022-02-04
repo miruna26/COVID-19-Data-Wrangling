@@ -11,7 +11,7 @@ Following a given schema, all the data feeds inside the **datasets** folder were
 The solutions are saved in .ipynb format which allows you to run the code cell by cell and provides a better understanding of the steps performed.<br > <br /> 
 For ease of access, I created a binder that allows the solutions to be run in a virtual environment. **Follow the link bellow!** <br > <br /> 
 <p align="center">
-   https://notebooks.gesis.org/binder/jupyter/user/miruna26-covid-19-data-wrangling-kgzlt0jj/lab
+   https://notebooks.gesis.org/binder/jupyter/user/miruna26-covid-19-data-wrangling-u9il3jzw/lab/workspaces/auto-t
 </p>
 
 
